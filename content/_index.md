@@ -226,6 +226,38 @@ sections:
           description: ""
     design:
       columns: '2'
+
+  - block: portfolio
+    id: grants
+    content:
+      title: Grants
+      filters:
+        # Folders to display content from
+        folders:
+          - grants
+
+      default_button_index: 0
+      # Filter button toolbar (optional).
+      # Add or remove as many buttons as you like.
+      # To show all content, set `tag` to "*".
+      # To filter by a specific tag, set `tag` to an existing tag name.
+      # To remove the button toolbar, delete the entire `buttons` block.
+      buttons:
+        - name: All
+          tag: '*'
+        - name: Completed
+          tag: Completed
+        - name: Ongoing
+          tag: Ongoin
+    design:
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
+      # Choose a listing view
+      view: masonry
+      # For Showcase view, flip alternate rows?
+      flip_alt_rows: false
+
   - block: collection
     id: posts
     content:
@@ -278,7 +310,7 @@ sections:
           tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2'
+      columns: '1'
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
@@ -294,10 +326,41 @@ sections:
       filters:
         folders:
           - publication
-        exclude_featured: true
+        exclude_featured: false
+      sort_by: 'Date'
     design:
       columns: '2'
       view: citation
+
+  - block: markdown
+    id: recognition
+    content:
+      title: Recognition 
+      date_format: Jan 2006
+      text: |
+        ## **2023@IEEE Indonesia/Universitas Nusa Putra**
+        - Invited Speaker
+        - The P2P Botnet Threat Mitigation Lifecycle
+        - Secure and Intelligent Future: The Confluence of AI, IoT, and Cyber Resilience - Online Webinar
+    design:
+      columns: '2'
+      view: compact
+
+#  - block: accomplishments
+#    id: recognition
+#    content:
+#      title: Recognition
+#      text: |-
+#        {{% callout note %}}
+#        Quickly discover relevant recognition by [filtering recognition](./recognition/).
+#        {{% /callout %}}
+#      filters:
+#        folders:
+#          - recognition
+#        exclude_featured: false
+#    design:
+#      columns: '2'
+#      view: compact
 
   - block: markdown
     id: services
