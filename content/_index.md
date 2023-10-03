@@ -227,36 +227,6 @@ sections:
     design:
       columns: '2'
 
-  - block: portfolio
-    id: grants
-    content:
-      title: Grants
-      filters:
-        # Folders to display content from
-        folders:
-          - grants
-
-      default_button_index: 0
-      # Filter button toolbar (optional).
-      # Add or remove as many buttons as you like.
-      # To show all content, set `tag` to "*".
-      # To filter by a specific tag, set `tag` to an existing tag name.
-      # To remove the button toolbar, delete the entire `buttons` block.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Completed
-          tag: Completed
-        - name: Ongoing
-          tag: Ongoin
-    design:
-      # See Page Builder docs for all section customization options.
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-      # Choose a listing view
-      view: masonry
-      # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
 
   - block: collection
     id: posts
@@ -306,8 +276,8 @@ sections:
           tag: Cyber Security
         - name: Internet of Things
           tag: Internet of Things 
-        - name: Other
-          tag: Demo
+        - name: Botnets
+          tag: Botnets
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
