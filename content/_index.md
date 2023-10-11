@@ -270,14 +270,14 @@ sections:
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
       buttons:
-        - name: All
-          tag: '*'
         - name: Cyber Security 
           tag: Cyber Security
         - name: Internet of Things
           tag: Internet of Things 
         - name: Botnets
           tag: Botnets
+        - name : SOC 
+          tag : SOC
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'

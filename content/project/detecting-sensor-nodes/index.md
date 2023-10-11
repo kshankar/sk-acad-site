@@ -1,6 +1,6 @@
 ---
 title: DETECTING SENSOR NODES DEPLOYED IN P2P BOTNETS USING GRAPH-THEORETIC APPROACHES
-sumnmary : A short term grant to detect sensor nodes deployed in P2P botnets using graph-theoretic approaches.
+summary: A grant to detect sensor nodes in P2P Botnets using Graph-theoretic approaches.
 tags:
 - Botnets
 
@@ -23,20 +23,17 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
 ---
 
+
 Status : Completed
-Level : University 
-Category : Short Term Grant 
-Budget : RM 27,407.00
-  
-Project Duration: **30/12/2016-30/11/2018**
+
+Project Duration: **01/12/2016-30/11/2018**
    
 Project Member:
 - Ts. Dr. Shankar Karuppayah
-- Rosni Binti Abdullah@Mustafa
-- Dr. Selvakumar Manickam 
+- Professor Dr. Rosni Abdullah @ Mustaffa
+- Dr. Mohammed F.r. Anbar 
 
 Publications:
 (to be added)
