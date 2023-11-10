@@ -1,11 +1,10 @@
 ---
-title: DESIGNING AND DEVELOPING A SECURITY OPERATIONS CENTER AS A SERVICE SENSOR PROTOTYPE
-summary: A grant to design and develop a SOC as a Service Sensor Protoype.
+title: Point Solution Design to the Technical Problems Faced by TF-AMD.
+summary: An external agencies project to design point solution for technical problems. 
 tags:
-- Cyber Security
-- SOC
+- Others
 
-date: "2023-04-01T00:00:00Z"
+date: "2021-07-26T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -24,16 +23,16 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
+
 ---
 
-Status : Active
+Status : Pending Final Report
 
-Project Duration: **01/04/2023-31/03/2024**
+Project Duration: **26/07/2021-31/12/2022**
    
 Project Member:
-- Ts. Dr. Shankar Karuppayah
+- Dr. Shankar Karuppayah(PI)
 - Assoc. Prof. Dr. Selvakumar Manickam
-- Dr. Mohammed F.r. Anbar 
 
 Publications:
 (to be added)

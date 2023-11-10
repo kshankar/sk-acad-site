@@ -1,11 +1,10 @@
 ---
-title: DESIGNING AND DEVELOPING A SECURITY OPERATIONS CENTER AS A SERVICE SENSOR PROTOTYPE
-summary: A grant to design and develop a SOC as a Service Sensor Protoype.
+title: Cyber-physical Security Design For Energy Aggregation that is Applicable to Malaysian Market.
+summary: An external agencies project to design cyber-physical security for energy aggregation. 
 tags:
 - Cyber Security
-- SOC
 
-date: "2023-04-01T00:00:00Z"
+date: "2021-09-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -24,16 +23,16 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
+
 ---
 
-Status : Active
+Status : Pending Final Report
 
-Project Duration: **01/04/2023-31/03/2024**
+Project Duration: **01/09/2021-31/08/2022**
    
 Project Member:
-- Ts. Dr. Shankar Karuppayah
-- Assoc. Prof. Dr. Selvakumar Manickam
-- Dr. Mohammed F.r. Anbar 
+- Assoc. Prof. Dr. Selvakumar Manickam(PI)
+- Dr. Shankar Karuppayah
 
 Publications:
 (to be added)

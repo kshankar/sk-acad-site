@@ -1,11 +1,10 @@
 ---
-title: DESIGNING AND DEVELOPING A SECURITY OPERATIONS CENTER AS A SERVICE SENSOR PROTOTYPE
-summary: A grant to design and develop a SOC as a Service Sensor Protoype.
+title: Development of Information Systems for Fish Catches Data Collection in the Bali Strait.
+summary: An external agencies project to develop Information System for fish catches data collection using purse saine, oayang and gill net fishing gear. 
 tags:
-- Cyber Security
-- SOC
+- Internet of Things
 
-date: "2023-04-01T00:00:00Z"
+date: "2020-12-03T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -24,16 +23,16 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
+
 ---
 
-Status : Active
+Status : Completed(Achieve KPI)
 
-Project Duration: **01/04/2023-31/03/2024**
+Project Duration: **01/12/2020-30/11/2021**
    
 Project Member:
-- Ts. Dr. Shankar Karuppayah
+- Dr. Shankar Karuppayah(PI)
 - Assoc. Prof. Dr. Selvakumar Manickam
-- Dr. Mohammed F.r. Anbar 
 
 Publications:
 (to be added)

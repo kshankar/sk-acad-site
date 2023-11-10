@@ -1,11 +1,10 @@
 ---
-title: DESIGNING AND DEVELOPING A SECURITY OPERATIONS CENTER AS A SERVICE SENSOR PROTOTYPE
-summary: A grant to design and develop a SOC as a Service Sensor Protoype.
+title: Mechanism to Secure Communication over SECS/GEM Protocol in Manufacturing Indsutry.
+summary: A FRGS to develop mechanism for Secure SECS/GEM Protocol communciation protocol.
 tags:
 - Cyber Security
-- SOC
 
-date: "2023-04-01T00:00:00Z"
+date: "2021-09-07T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -26,14 +25,17 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 ---
 
+
 Status : Active
 
-Project Duration: **01/04/2023-31/03/2024**
+Project Duration: **07/09/2021-06/09/2023**
    
 Project Member:
+- Assoc. Prof. Dr. Selvakumar Manickam(PI)
 - Ts. Dr. Shankar Karuppayah
-- Assoc. Prof. Dr. Selvakumar Manickam
-- Dr. Mohammed F.r. Anbar 
+- Dr. Mohammed F.r.Anbar
+- Rada Kumar Murugesan
+
 
 Publications:
 (to be added)

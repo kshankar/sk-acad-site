@@ -1,11 +1,10 @@
 ---
-title: DESIGNING AND DEVELOPING A SECURITY OPERATIONS CENTER AS A SERVICE SENSOR PROTOTYPE
-summary: A grant to design and develop a SOC as a Service Sensor Protoype.
+title: A periodicity-agnostic method for detecting parasited botnets in DHT based peer-to-peer network.
+summary: A FRGS to develop a detection method for botnets in DHT based peer-to-peer network.
 tags:
-- Cyber Security
-- SOC
+- Botnets
 
-date: "2023-04-01T00:00:00Z"
+date: "2021-09-07T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -26,14 +25,15 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 ---
 
+
 Status : Active
 
-Project Duration: **01/04/2023-31/03/2024**
+Project Duration: **07/09/2021-06/09/2024**
    
 Project Member:
-- Ts. Dr. Shankar Karuppayah
+- Ts. Dr. Shankar Karuppayah(PI)
 - Assoc. Prof. Dr. Selvakumar Manickam
-- Dr. Mohammed F.r. Anbar 
+
 
 Publications:
 (to be added)
